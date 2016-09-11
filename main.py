@@ -15,7 +15,6 @@ def home():
 @app.route('/search')
 def search():
 	query = request.args.get('q')
-	print(query)
 	url = "http://loklak.org/api/search.json?q="+query
 	locations = []
 	json_data = requests.get(url).json()
