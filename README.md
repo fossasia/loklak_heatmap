@@ -11,9 +11,13 @@ Tweet Heatmap using loklak as a source.
 Demo: <http://polbaladas.com/loklakHeatMap/>
 
 ##Set up / Requirements
+
 Python Packages:
+
 Flask 0.11.1
-requests 2.10.0
+
+Requests 2.10.0
+
 Install with pip and requirements.txt.
 
 ## Local Set up
