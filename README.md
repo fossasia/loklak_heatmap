@@ -33,7 +33,7 @@ And the app should be running locally on port 5000 (127.0.0.0:5000) .
 ##Server set up
 
 Install the app requirements just like in the local set up scenario.
-Install your prefered server software (demo uses apache) and configure it to run the Flask App. 
+Install your preferred server software (demo uses apache) and configure it to run the Flask App. 
 
 DigitalOcean has a great tutorial to set up Flask apps with apache and nginx in an ubuntu environment:
 <https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-uwsgi-and-nginx-on-ubuntu-16-04> .
